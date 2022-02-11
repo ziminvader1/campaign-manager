@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "declaration": true,
+    "module": "ES2015",
+    "outDir": "./lib",
+    "strict": true,
+    "strictNullChecks": false,
+    "target": "ES5"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "src/*.spec.ts"]
+}

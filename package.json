@@ -1,0 +1,33 @@
+{
+  "name": "@cardsort-softwares/campaign-manager",
+  "version": "0.0.1",
+  "description": "Simple AB Campaign helper",
+  "main": "main.js",
+  "types": "main.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "private": false,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterSaberD1996/campaign-manager.git"
+  },
+  "keywords": [
+    "Campaign",
+    "manager"
+  ],
+  "author": "Duncan McPherson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasterSaberD1996/campaign-manager/issues"
+  },
+  "homepage": "https://github.com/MasterSaberD1996/campaign-manager#readme"
+}
